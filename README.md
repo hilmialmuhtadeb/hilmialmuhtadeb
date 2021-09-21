@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilmialmuhtadeb
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning react js and laravel
 - 💞️ I’m looking to collaborate on tokopedia
 - 📫 How to reach me hilmialmuhtadeb@gmail.com
 
