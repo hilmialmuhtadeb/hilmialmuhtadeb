@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hilmialmuhtadeb
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react js and laravel
-- 💞️ I’m looking to collaborate on tokopedia
-- 📫 How to reach me hilmialmuhtadeb@gmail.com
-
-<!---
-hilmialmuhtadeb/hilmialmuhtadeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dulu bersama, berburu properti
+Dulu antar jemput sekarang pulang sendiri
+Di kehidupan, kita singgah dan pergi
+Apapun yang terjadi, kita abadi
