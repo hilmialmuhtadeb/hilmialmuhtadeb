@@ -1,1 +1,1 @@
-halo, hilmi di sini. sedang belajar pemrograman.
+Hi, Hilmi here. Currently studying Software Engineering.
