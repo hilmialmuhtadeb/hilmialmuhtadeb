@@ -1,1 +1,1 @@
-Hi, Hilmi here. Currently studying Software Engineering.
+Hi, Hilmi here! Currently studying Software Engineering :D
